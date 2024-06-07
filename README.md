@@ -6,7 +6,7 @@ For the Analysis Part we divided each analysis task between the three team membe
 
 Analysis 1 - 
 
-Analysis 2 - 
+Analysis 2 - Analysing accessories purchased versus discounts, no clear pattern emerged. In fact, sales made were greatest at the time of lowest discounts. This may be due to the fact that less was spent, but I still would expect an increase in sales during sale times.
 
 Analysis 3 - I had to analyse the sales and their correlation and distribution between different segments of buyers and by doing analysis according to average sales of each category of product bought, Technology products have the highest sales among all categories in all the three segments. 
 
