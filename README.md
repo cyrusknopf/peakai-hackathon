@@ -8,4 +8,7 @@ Analysis 1 -
 
 Analysis 2 - 
 
-Analysis 3 - 
+Analysis 3 - I had to analyse the sales and their correlation and distribution between different segments of buyers and by doing analysis according to average sales of each category of product bought, Technology products have the highest sales among all categories in all the three segments. 
+
+Consumer Segment usually has the highest sales volumes though.
+As the volumes are the highest from Consumer segment sales and profits are the highest from them as well.
